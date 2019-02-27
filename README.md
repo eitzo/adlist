@@ -1,2 +1,2 @@
-# adlist
+# Blacklist 
 Adlist for pi-hole
